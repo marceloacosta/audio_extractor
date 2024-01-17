@@ -1,4 +1,3 @@
-```markdown
 # Audio/Video Transcription App
 
 This project creates a web application for transcribing audio and video files using OpenAI's Whisper API. It is built with Streamlit, allowing users to upload files and receive transcriptions.
@@ -62,5 +61,5 @@ Contributions are welcome. Please open an issue first to discuss what you would 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-```
+
 
